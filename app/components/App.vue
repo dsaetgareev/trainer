@@ -33,7 +33,6 @@
                     :stats="this.stats"
                     @repeat="onStart"
                     @nextLevel="onNextLevel"
-                    @video="playVideo"
             ></app-result-screen>
         </GridLayout>
     </Page>
